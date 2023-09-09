@@ -1,0 +1,105 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 25px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.logotext{
+    color:#fff;
+    font-size: 50px;font-weight: bold;text-decoration: none;font-family:Arial, Helvetica, sans-serif;
+    margin-left: 180px;
+
+}
+.logintext1{
+    color: rgb(170, 221, 255);
+    text-decoration: none;
+}
+    .logintext1:hover{
+        background: #3b5998;
+}
+.loginform{
+    margin-left: 110px;
+}
+.logintext{
+    color: rgb(215, 230, 240);
+
+}
+
+
+.loginbutton{
+    background-color: rgb(34, 106, 179);
+    color: rgb(202, 221, 243);
+    border-color: steelblue;
+    cursor: pointer;
+}
+.loginbutton:hover{
+    background: rgb(54, 71, 119);
+}
+.mainbody{
+background:linear-gradient(white,#D3D8E8);
+width:100%;
+height: 500px;
+}
+.leftside{
+width: 50%;
+float: left;
+}
+.rightside{
+width: 50%;
+float: left;
+color: rgb(69, 87, 148);
+margin-top: 10px;
+
+}
+.def{
+    font-weight: bold;
+    font-size: 20px; 
+    color: #2c4781;
+    margin-top: 40px;
+    margin-left: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.image{
+    height:300px;
+    width: 70%;
+    margin-left: 180px;
+    margin-top: 10px;
+    float:left;
+}
+.form{
+    border-radius: 5px;
+    font-size: 15px;
+    height: 20px;
+}
+.signupbutton{
+    height: 30px;
+    width: 200px;
+    background-color: rgb(29, 124, 50);
+    color: rgb(233, 233, 233);
+    border-color: rgb(67, 122, 4);
+    cursor: pointer;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.signupbutton:hover{
+    background-color: darkgreen;
+}
+.forgot-pass{
+    background:linear-gradient(rgb(224, 173, 173),#9ca9c9);
+width:100%;
+height: 1000px;
+}
